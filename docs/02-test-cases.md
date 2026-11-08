@@ -4,12 +4,12 @@
 
 | ID | Test Scenario | Expected Result | Status |
 |---|---|---|---|
-| TC-001 | Log in with valid credentials | The user is redirected to the product catalog. | Not Run |
-| TC-002 | Log in with an incorrect password | Access is denied and an error message is displayed. | Not Run |
-| TC-003 | Log in with both fields empty | Access is denied and a required-field error message is displayed. | Not Run |
-| TC-004 | Add a product to the cart | The cart displays the selected product with the corresponding price. | Not Run |
-| TC-005 | Remove a product from the cart | The product is removed and the cart badge reflects the remaining number of items. | Not Run |
-| TC-006 | Complete a purchase with valid test data | An order confirmation is displayed. | Not Run |
+| TC-001 | Log in with valid credentials | The user is redirected to the product catalog. | Passed |
+| TC-002 | Log in with an incorrect password | Access is denied and an error message is displayed. | Passed |
+| TC-003 | Log in with both fields empty | Access is denied and a required-field error message is displayed. | Passed |
+| TC-004 | Add a product to the cart | The cart displays the selected product with the corresponding price. | Passed |
+| TC-005 | Remove a product from the cart | The product is removed and the cart badge reflects the remaining number of items. | Passed |
+| TC-006 | Complete a purchase with valid test data | An order confirmation is displayed. | Passed |
 
 ## Notes
 
