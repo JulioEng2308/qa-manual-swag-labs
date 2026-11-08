@@ -31,10 +31,10 @@ These results apply only to the documented scenarios
 and recorded execution environment.
 
 ## Documentation
-- [Test Scope](01-scope.md)
-- [Test Cases and Execution Records](02-test-cases.md)
-- [Test Execution Report](03-test-report.md)
-- [Test Evidence](evidence/)
+- [Test Scope](docs/01-scope.md)
+- [Test Cases and Execution Records](docs/02-test-cases.md)
+- [Test Execution Report](docs/03-test-report.md)
+- [Test Evidence](docs/evidence/)
 
 ## Skills Practiced
 - Defining test scope.
